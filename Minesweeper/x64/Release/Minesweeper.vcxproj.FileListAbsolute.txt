@@ -1,0 +1,6 @@
+D:\Projets\2025\Minesweeper\Minesweeper\x64\Release\Minesweeper.vcxproj.MdMergeInputs.cache
+D:\Projets\2025\Minesweeper\Minesweeper\x64\Release\Minesweeper.vcxproj.cppwinrt_plat.cache
+D:\Projets\2025\Minesweeper\Minesweeper\x64\Release\Minesweeper.vcxproj.cppwinrt_comp.cache
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\x64\Release\Minesweeper.vcxproj.MdMergeInputs.cache
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\x64\Release\Minesweeper.vcxproj.cppwinrt_plat.cache
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\x64\Release\Minesweeper.vcxproj.cppwinrt_comp.cache

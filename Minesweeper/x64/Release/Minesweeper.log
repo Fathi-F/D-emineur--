@@ -1,0 +1,14 @@
+﻿  Grid.c
+  main.c
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\Grid.c(169,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\Grid.c(169,82): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\Grid.c(235,44): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\Grid.c(235,56): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\main.c(56,36): warning C5287: operands are different enum types 'sfKeyCode' and 'sfMouseButton'; use an explicit cast to silence this warning
+D:\Projets\2025\MinesweeperCSFML\Minesweeper\main.c(81,36): warning C5287: operands are different enum types 'sfKeyCode' and 'sfMouseButton'; use an explicit cast to silence this warning
+  Generating code
+  8 of 17 functions (47.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Minesweeper.vcxproj -> D:\Projets\2025\MinesweeperCSFML\x64\Release\Minesweeper.exe

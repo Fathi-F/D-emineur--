@@ -1,0 +1,6 @@
+D:\Projets\2025\Minesweeper\Minesweeper\x64\Debug\Minesweeper.vcxproj.MdMergeInputs.cache
+D:\Projets\2025\Minesweeper\Minesweeper\x64\Debug\Minesweeper.vcxproj.cppwinrt_plat.cache
+D:\Projets\2025\Minesweeper\Minesweeper\x64\Debug\Minesweeper.vcxproj.cppwinrt_comp.cache
+C:\Users\fathi\OneDrive\Desktop\de\Minesweeper\x64\Debug\Minesweeper.vcxproj.MdMergeInputs.cache
+C:\Users\fathi\OneDrive\Desktop\de\Minesweeper\x64\Debug\Minesweeper.vcxproj.cppwinrt_plat.cache
+C:\Users\fathi\OneDrive\Desktop\de\Minesweeper\x64\Debug\Minesweeper.vcxproj.cppwinrt_comp.cache
