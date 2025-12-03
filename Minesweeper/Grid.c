@@ -196,7 +196,7 @@ void CellDestroy(Cell* cell)
 Grid* GridCreate()
 {
     // load font
-    g_font = sfFont_createFromFile(FONT_FILE);
+    sfFont* g_font = sfFont_createFromFile(FONT_FILE);
     if (!g_font)
     {
         fprintf(stderr, "Failed to load font at '%s'\n", FONT_FILE);
